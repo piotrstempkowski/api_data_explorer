@@ -1,0 +1,2 @@
+DEBUG: f"Error when querying the API: {e}": ('Error when querying the API: 404 Client Error: Not Found for url: '
+                                             'https://financialmodelingprep.com/api/v3/cash-flw-statement/TSLA?limit=5&apikey=FbAfkLlEvRii26WWGhxdsze5dB46Kyuh')
